@@ -1,2 +1,2 @@
-# Hackerrank Week of Code (python)
- Practice code implemented during Hackerrank's week long python challenges 
+# HackerRank Week of Code (python)
+ Practice Python code created during Hackerrank's week long coding challenge
